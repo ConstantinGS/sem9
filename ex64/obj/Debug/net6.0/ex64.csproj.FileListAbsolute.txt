@@ -1,0 +1,15 @@
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\bin\Debug\net6.0\ex64.exe
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\bin\Debug\net6.0\ex64.deps.json
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\bin\Debug\net6.0\ex64.runtimeconfig.json
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\bin\Debug\net6.0\ex64.dll
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\bin\Debug\net6.0\ex64.pdb
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\obj\Debug\net6.0\ex64.csproj.AssemblyReference.cache
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\obj\Debug\net6.0\ex64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\obj\Debug\net6.0\ex64.AssemblyInfoInputs.cache
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\obj\Debug\net6.0\ex64.AssemblyInfo.cs
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\obj\Debug\net6.0\ex64.csproj.CoreCompileInputs.cache
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\obj\Debug\net6.0\ex64.dll
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\obj\Debug\net6.0\refint\ex64.dll
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\obj\Debug\net6.0\ex64.pdb
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\obj\Debug\net6.0\ex64.genruntimeconfig.cache
+C:\Users\grish\OneDrive\Desktop\seminar_C\sem8\sem9\sem9\ex64\obj\Debug\net6.0\ref\ex64.dll
