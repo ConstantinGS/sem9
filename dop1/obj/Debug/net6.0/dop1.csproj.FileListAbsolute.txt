@@ -1,0 +1,15 @@
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\bin\Debug\net6.0\dop1.exe
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\bin\Debug\net6.0\dop1.deps.json
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\bin\Debug\net6.0\dop1.runtimeconfig.json
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\bin\Debug\net6.0\dop1.dll
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\bin\Debug\net6.0\dop1.pdb
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\obj\Debug\net6.0\dop1.csproj.AssemblyReference.cache
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\obj\Debug\net6.0\dop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\obj\Debug\net6.0\dop1.AssemblyInfoInputs.cache
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\obj\Debug\net6.0\dop1.AssemblyInfo.cs
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\obj\Debug\net6.0\dop1.csproj.CoreCompileInputs.cache
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\obj\Debug\net6.0\dop1.dll
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\obj\Debug\net6.0\refint\dop1.dll
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\obj\Debug\net6.0\dop1.pdb
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\obj\Debug\net6.0\dop1.genruntimeconfig.cache
+C:\Users\Image\Desktop\C#\sem9\sem9\dop1\obj\Debug\net6.0\ref\dop1.dll
